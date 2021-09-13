@@ -1,5 +1,6 @@
 h1 {
     background-color: orange;
+    border: 4px double black;
 }
 
 body {
